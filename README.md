@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @tomstor82
+- 👀 I’m interested in programming, building, sailing, flying and not least mother earth.
+- 🌱 I’m currently learning JS Frameworks, C++, Java and Python.
+- 💞️ I’m looking to collaborate on anything really.
+- 📫 How to reach me you see here :)
